@@ -48,7 +48,6 @@ p {
 }
 
 #loaderInner {
-  background: #ffffff url("../images/load.gif") no-repeat scroll center center;
   height: 60px;
   left: 50%;
   position: absolute;
